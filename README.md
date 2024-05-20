@@ -1,2 +1,2 @@
-# nnU-net-with-MedSAM
+# nnUnet with MedSAM
 CT Liver Tumor Segmentation
